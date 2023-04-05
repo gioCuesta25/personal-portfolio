@@ -1,0 +1,69 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+
+* {
+  font-family: 'Heebo', sans-serif;
+}
+
+/* Reset de estilos */
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+dl,
+dd,
+ol,
+ul,
+figure,
+hr,
+fieldset,
+legend,
+textarea,
+input,
+select,
+button {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* Normalización de estilos */
+body {
+  line-height: 1;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Ajustes de estilo específicos de la aplicación */
+/* Aquí puedes agregar tus propios estilos personalizados para la aplicación */
