@@ -33,7 +33,7 @@ const CodeIcon = () => {
           cy="34"
           r="20"
           fill="#7B4AE2"
-          fill-opacity="0.2"
+          fillOpacity="0.2"
           shape-rendering="crispEdges"
         />
       </g>
