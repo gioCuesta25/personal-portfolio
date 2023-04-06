@@ -12,32 +12,32 @@ const ProjectsIcon = () => {
       <path
         d="M10 14.0006H54V44.0006C54 44.531 53.7893 45.0398 53.4142 45.4148C53.0391 45.7899 52.5304 46.0006 52 46.0006H42C41.4696 46.0006 40.9609 45.7899 40.5858 45.4148C40.2107 45.0398 40 44.531 40 44.0006V38.0006H24V52.0006C24 52.531 23.7893 53.0398 23.4142 53.4148C23.0391 53.7899 22.5304 54.0006 22 54.0006H12C11.4696 54.0006 10.9609 53.7899 10.5858 53.4148C10.2107 53.0398 10 52.531 10 52.0006V14.0006Z"
         stroke="#7B4AE2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <path
         d="M24 30.0004H10"
         stroke="#7B4AE2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <path
         d="M24 14.0006V38.0006"
         stroke="#7B4AE2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <path
         d="M40 30.0004H54"
         stroke="#7B4AE2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <path
         d="M40 14.0006V38.0006"
         stroke="#7B4AE2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <g filter="url(#filter0_d_21_5470)">
         <circle

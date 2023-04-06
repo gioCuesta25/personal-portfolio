@@ -12,20 +12,20 @@ const CodeIcon = () => {
       <path
         d="M16 21.9996L4 31.9996L16 41.9996"
         stroke="#7B4AE2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <path
         d="M48 21.9996L60 31.9996L48 41.9996"
         stroke="#7B4AE2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <path
         d="M40 10.0003L24 54.0003"
         stroke="#7B4AE2"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <g filter="url(#filter0_d_21_5442)">
         <circle
