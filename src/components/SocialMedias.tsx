@@ -1,13 +1,14 @@
 import GithubIcon from '@/assets/GithubIcon';
 import LinkedinIcon from '@/assets/LinkedinIcon';
+import { GITHUB_URL, LINKEDIN_URL } from '@/constants';
 import { SocialMedias } from '@/models';
 import styles from '@/styles/SocialMedias.module.css';
 
 const SOCIAL_MEDIAS: SocialMedias[] = [
-  { icon: <GithubIcon />, link: 'https://github.com/gioCuesta25' },
+  { icon: <GithubIcon />, link: GITHUB_URL },
   {
     icon: <LinkedinIcon />,
-    link: 'https://www.linkedin.com/in/giovanni-roma%C3%B1a/',
+    link: LINKEDIN_URL,
   },
 ];
 
