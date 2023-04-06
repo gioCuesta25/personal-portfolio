@@ -16,7 +16,7 @@ const SocialMedias = () => {
   return (
     <div className={styles.social_main_container}>
       {SOCIAL_MEDIAS.map((item, index) => (
-        <a href={item.link} target="_blank">
+        <a key={index} href={item.link} target="_blank">
           {item.icon}
         </a>
       ))}
