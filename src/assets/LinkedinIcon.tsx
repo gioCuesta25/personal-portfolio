@@ -9,7 +9,7 @@ const LinkedinIcon = () => {
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_21_5365)">
+      <g clipPath="url(#clip0_21_5365)">
         <path
           d="M15.9999 0C24.837 0 32 7.164 32 16.0001C32 24.8361 24.837 32 15.9999 32C7.1629 32 0 24.836 0 16.0001C0 7.16411 7.16301 0 15.9999 0Z"
           fill="white"
