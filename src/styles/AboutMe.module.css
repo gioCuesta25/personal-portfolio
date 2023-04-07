@@ -1,0 +1,43 @@
+.greeting_container {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #7b4ae2;
+
+  width: 122px;
+  height: 32px;
+
+  background: rgba(123, 74, 226, 0.1);
+  border-radius: 8px;
+}
+
+.aboutme_container {
+  margin-top: 30px;
+}
+
+.name {
+  margin-top: 15px;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #ffffff;
+}
+
+.description {
+  margin-top: 30px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 25px;
+
+  text-align: justify;
+
+  color: rgba(255, 255, 255, 0.5);
+}

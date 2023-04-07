@@ -1,7 +1,8 @@
 import Experience from '@/components/Experience';
-import styles from '../styles/Home.module.css';
+import styles from '@/styles/Home.module.css';
 import HomeText from '@/components/HomeText';
 import SocialMedias from '@/components/SocialMedias';
+import AboutMe from '@/components/AboutMe';
 
 export default function Home() {
   return (
@@ -9,6 +10,7 @@ export default function Home() {
       <SocialMedias />
       <HomeText />
       <Experience />
+      <AboutMe />
     </div>
   );
 }
