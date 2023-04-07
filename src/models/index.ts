@@ -8,3 +8,11 @@ export interface ExperienceModel {
   years: string;
   position: string;
 }
+
+export interface ProjectsModel {
+  title: string;
+  description: string;
+  image: string;
+  stack: string[];
+  link: string;
+}
